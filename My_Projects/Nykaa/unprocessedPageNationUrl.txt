@@ -1,0 +1,12 @@
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=1&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=2&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=1&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=2&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=3&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=1&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=2&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=1&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=2&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=8933&client=react&filter_format=v2&page_no=3&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=10630&client=react&filter_format=v2&page_no=10&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=8533&client=react&filter_format=v2&page_no=8&pro=false

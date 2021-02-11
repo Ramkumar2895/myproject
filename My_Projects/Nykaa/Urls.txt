@@ -1,0 +1,11 @@
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=1&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=2&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=3&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=4&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=5&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=6&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=7&pro=false
+https://www.nykaa.com/app-api/index.php/products/list?category_id=&client=react&filter_format=v2&page_no=8&pro=false
+https://www.nykaa.com/brands/debon-herbals/c/5465?ptype=lst&id=5465&root=brand_menu,brand_list,Debon%20Herbals
+https://www.nykaa.com/brands/sleek/c/8873?ptype=lst&id=8873&root=brand_menu,brand_list,Sleek
+https://www.nykaa.com/brands/mitchell-usa/c/4767?ptype=lst&id=4767&root=brand_menu,brand_list,Mitchell%20USA

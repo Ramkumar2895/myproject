@@ -1,0 +1,46 @@
+/* #topbar
+{
+	background-color: black;
+	height: 10px;
+	width: 100%;
+	border-radius: 10px;
+} */
+body
+{
+	background-image: url(images/loop.png);
+	background-position: center;
+	background-size: cover;
+}
+#container
+{
+	background-color: black;
+	height: 700px;
+	width: 100%;
+	margin: 0px auto;
+}
+#header
+{
+	background-color: black;
+	height: 80px;
+}
+#header img
+{
+	height: 100px;
+	margin: 0px auto;
+}
+#header ul
+{
+	float: right;
+	margin-top: 25px;
+}
+#header ul li
+{
+	display: inline;
+	margin-right: 15px;
+}
+#header ul li a
+{
+	color: blue;
+	text-decoration: none;
+	font-family: Georgia;
+}
